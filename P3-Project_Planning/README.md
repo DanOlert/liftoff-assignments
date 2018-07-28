@@ -6,10 +6,25 @@ For this assignment, you'll create some initial plans for your project.
 
 ## Submission Instructions
 
+### Project Link
+
+[link](https://github.com/DanOlert/Capstone-Liftoff "DanOlert/Capstone-Liftoff")
+
 ### Wireframes
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+* [link](https://github.com/DanOlert/Capstone-Liftoff/blob/master/project-planning/Wireframe/Wireframe-1.png "Login") - Login or register from this page.
+
+* [link](https://github.com/DanOlert/Capstone-Liftoff/blob/master/project-planning/Wireframe/Wireframe-2.png "Registration") - Register account here.
+
+* [link](https://github.com/DanOlert/Capstone-Liftoff/blob/master/project-planning/Wireframe/Wireframe-3.png "Make New Page") - Make new page here. New user must create a personal page. Pages have different types and can also be for groups.
+
+* [link](https://github.com/DanOlert/Capstone-Liftoff/blob/master/project-planning/Wireframe/Wireframe-4.png "Make New Post") - Make new post here. Posts are linked to pages, so they can be on your page, another user's page, or a group's page. 
+
+* [link](https://github.com/DanOlert/Capstone-Liftoff/blob/master/project-planning/Wireframe/Wireframe-5.png "View Page") - View your page, other user page, or group page. Posts viewable on a page will only be posts linked to that page. This view will also incorporate sidebars.
+
+* [link](https://github.com/DanOlert/Capstone-Liftoff/blob/master/project-planning/Wireframe/Wireframe-6.png "Home Page") - View posts from followed pages. This view will also incorporate sidebars.
+
 
 ### Project Tracker
 
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+ Public Tracker: https://www.pivotaltracker.com/projects/2187496.
