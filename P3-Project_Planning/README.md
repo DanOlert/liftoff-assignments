@@ -27,4 +27,4 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Project Tracker
 
- Public Tracker: https://www.pivotaltracker.com/projects/2187496.
+ * [link](https://www.pivotaltracker.com/projects/218749 "Project Tracker")
