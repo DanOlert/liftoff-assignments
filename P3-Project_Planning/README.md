@@ -8,7 +8,7 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Project Link
 
-[Liftoff Exam](https://github.com/DanOlert/Capstone-Liftoff "DanOlert/Capstone-Liftoff")
+[Capstone](https://github.com/DanOlert/Capstone-Liftoff "DanOlert/Capstone-Liftoff")
 
 ### Wireframes
 
